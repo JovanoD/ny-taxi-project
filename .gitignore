@@ -1,0 +1,6 @@
+ny_taxi_postgres_data
+docker_composing.sh
+ingest_ny_taxi_data.ipynb
+req.txt
+requirements.txt
+*.parquet
